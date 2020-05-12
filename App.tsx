@@ -132,7 +132,7 @@ export default function App() {
            >
             <Animated.View style={{...styles.heading,opacity: headingOpacity}}>
               <Text style={{fontSize:20,color: '#fff'}}
-              > Get start with Code Pro</Text>
+              > Comece com a Code Pro</Text>
             </Animated.View>
 
             <TapGestureHandler {...gestureHandler}>
