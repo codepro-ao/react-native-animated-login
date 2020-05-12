@@ -143,7 +143,7 @@ export default function App() {
 
                  <AnimatedPlaceHolder isOpenAnimation={isOpenAnimation} />
                  <Image
-                   source={require('./src/assets/Anola_flag.jpg')}
+                   source={require('./src/assets/Angola_flag.jpg')}
                    style={{...styles.Image}}
                  />
                  <Text style={{...styles.prefix}}>+244</Text>
