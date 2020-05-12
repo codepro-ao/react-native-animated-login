@@ -45,6 +45,8 @@ Animated login page with in react native using expo with typescript
 
 ![Layout Image Exemple](layout.png)
 
+### Layout  Exemple Image
+
 ![Layout Image Exemple Animated](layout.gif)
 
 ## 🤔 How to Contribute
