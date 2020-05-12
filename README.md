@@ -31,9 +31,10 @@
 #### (replace with your project Technologies)
 This project was developed with the following technologies:
 
+- [TypeScript](https://https://www.w3schools.com/css/)
 - [Javascript](https://www.w3schools.com/js/)
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://https://www.w3schools.com/css/)
+- [React Native](https://https://www.w3schools.com/css/)
+- [Expo](https://www.w3schools.com/html/)
 
 ## 💻 Project
 
@@ -50,6 +51,8 @@ Project description
 
 #### (replace with your project layout)
 ![Layout Image Exemple](layout.png)
+
+![Layout Image Exemple Animated](layout.gif)
 
 ## 🤔 How to Contribute
 
