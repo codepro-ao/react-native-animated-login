@@ -1,5 +1,5 @@
 <h1 align="center">
-    Get Start GitHub Project Template (replace with your project name)
+    React Native Animated Login
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/codepro-ao/react-native-animated-login">
@@ -28,28 +28,21 @@
 
 ## :rocket: Techs
 
-#### (replace with your project Technologies)
 This project was developed with the following technologies:
 
-- [TypeScript](https://https://www.w3schools.com/css/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Javascript](https://www.w3schools.com/js/)
-- [React Native](https://https://www.w3schools.com/css/)
-- [Expo](https://www.w3schools.com/html/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 
 ## 💻 Project
 
-#### (replace with your project description)
-Project description
+Animated login page with in react native using expo with typescript
 
 ## Layout
 
-#### (replace with your link preview project)
-[Preview](https://github.com/codepro-ao/)
-
-
 ### Layout Exemple Image
 
-#### (replace with your project layout)
 ![Layout Image Exemple](layout.png)
 
 ![Layout Image Exemple Animated](layout.gif)
@@ -65,11 +58,10 @@ After the merge of your pull request is done, you can delete your branch.
 
 ## :memo: License
 
-#### (replace with your license project)
 This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 
 
 ## Author
-#### (replace with your author project)
+
 [Carlos Garcia](https://github.com/CarlCr)
 
