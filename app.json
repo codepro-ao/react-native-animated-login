@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "login-screan",
+    "name": "Animated Login",
+    "slug": "animated-login",
     "platforms": [
       "ios",
       "android",
